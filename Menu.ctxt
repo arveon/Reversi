@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Menu()
+comment0.text=\r\n\ A\ default\ constructor\ that\ does\ nothing\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Opens\ the\ main\ menu\ and\ starts\ the\ whole\ process\r\n
+comment2.params=
+comment2.target=void\ mainMenu()
+comment2.text=\r\n\ Displays\ the\ main\ game\ menu\ and\ processes\ user\ main\ menu\ input\r\n
+comment3.params=userChoice
+comment3.target=void\ processUserChoice(java.lang.String)
+comment3.text=\r\n\ Processes\ user\ main\ menu\ input\r\n\ \r\n\ @param\ userChoice\ represents\ user's\ menu\ choice\r\n
+numComments=4

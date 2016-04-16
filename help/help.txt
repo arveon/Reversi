@@ -1,0 +1,21 @@
+The reversi game rules:
+1.The game lasts until at least one of players has a turn.
+2.The game winner is the player with the most discs of his 
+colour on the field
+3.The legal move is the move that causes the opponent discs
+to flip when it resolves.
+
+
+How to play the game:
+1. Follow the menu instructions to start the game.
+2. Turn input syntax is the following: "A4"/"a4"
+(first - horizontal letter coordinate and then vertical
+coordinate). Just like chess.
+3. If you want to access the menu while playing the game, 
+type 'menu' and press ENTER.
+4. When saving the game it is not necessary to specify it's
+format. It will save file as .txt file regardless of what you input.
+
+P.S. Please, don't alter the game field blueprint
+and saved game files as it may cause problems while running
+the game.

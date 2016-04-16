@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Field()
+comment0.text=\r\n\ Default\ constructor\ that\ sets\ the\ size\ of\ the\ field\r\n
+comment1.params=file
+comment1.target=java.lang.String[][]\ setField(java.lang.String)
+comment1.text=\r\n\ Sets\ the\ field\r\n\ \r\n\ @return\ field\ contains\ a\ game\ field\ with\ players'\ discs\r\n
+comment2.params=
+comment2.target=boolean\ getFirstTurn()
+comment2.text=\r\n\ Returns\ who's\ turn\ it's\ supposed\ to\ be\ after\ the\ field\ loads\r\n\ \r\n\ @return\ firstTurn\ represents\ the\ player\ who's\ turn\ it\ will\ be\r\n
+comment3.params=
+comment3.target=void\ printField()
+comment3.text=\r\n\ Prints\ the\ field\r\n\ \r\n
+numComments=4
